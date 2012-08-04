@@ -1,0 +1,18 @@
+﻿<gadget>
+  <name>Thermos</name>
+  <version>1.0.0</version>
+  <author name="Jimmy Dom"> </author>
+  <copyright>&#169; Jimmy Dom</copyright>
+  <description>Thermos Sidebar gadget.
+This gadget can only be used with the Thermos application</description>
+<icons>
+    <icon height="48" width="48" src="Thermos.png" />
+  </icons>
+  <hosts>
+    <host name="sidebar">
+      <base type="HTML" apiVersion="1.0.0" src="Thermos.html" />
+      <permissions>Full</permissions>
+      <platform minPlatformVersion="1.0" />
+    </host>
+  </hosts>
+</gadget>

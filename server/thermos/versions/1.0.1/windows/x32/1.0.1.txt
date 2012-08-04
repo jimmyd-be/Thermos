@@ -1,0 +1,14 @@
+http://localhost/thermos/versions/1.0.1/windows/x32/QtCore4.dll
+http://localhost/thermos/versions/1.0.1/windows/x32/QtGui4.dll
+http://localhost/thermos/versions/1.0.1/windows/x32/QtNetwork4.dll
+http://localhost/thermos/versions/1.0.1/windows/x32/QtXml4.dll
+http://localhost/thermos/versions/1.0.1/windows/x32/Thermos.exe
+http://localhost/thermos/versions/1.0.1/windows/x32/languages/fr.po
+http://localhost/thermos/versions/1.0.1/windows/x32/languages/nl.po
+http://localhost/thermos/versions/1.0.1/windows/x32/logo/AMD-GPU-logo.jpg
+http://localhost/thermos/versions/1.0.1/windows/x32/logo/AMD-Logo.jpg
+http://localhost/thermos/versions/1.0.1/windows/x32/logo/Hard-disk-logo.png
+http://localhost/thermos/versions/1.0.1/windows/x32/logo/intel-logo.jpg
+http://localhost/thermos/versions/1.0.1/windows/x32/logo/Memory-logo.png
+http://localhost/thermos/versions/1.0.1/windows/x32/logo/nvidia_logo.jpg
+http://localhost/thermos/versions/1.0.1/windows/x32/logo/thermos.png

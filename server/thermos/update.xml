@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<thermos>
+  <version>1.0.1</version>
+  
+  <windows>
+  	<x32>http://localhost/thermos/versions/1.0.1/windows/x32/1.0.1.txt</x32>
+  </windows>
+
+</thermos>

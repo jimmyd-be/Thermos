@@ -1,0 +1,42 @@
+body {
+	margin: 0;
+	width: 180px;
+	height: 260px;
+	font-family: verdana;
+	color: white;
+	background-image:url('background.PNG');
+	background-color: black;
+}
+
+#title {
+	color: white;
+	font-size: 12px;
+	text-align: center;
+	margin: 0, 0, 0, 0;
+}
+
+#logo {
+	width: 180px;
+	position:absolute;
+	z-index:-1;
+    left:0px;
+}
+
+img{
+	
+	filter:alpha(opacity=50);
+}
+
+h4 {
+	font-size: 8pt;
+	font-style:bold;
+	padding-bottom: 0px;
+	margin: 0, 0, 0, 0;
+}
+
+h5{
+	
+	font-size: 7pt;
+	padding-bottom: 0px;
+	margin: 0, 0, 0, 0;
+}
